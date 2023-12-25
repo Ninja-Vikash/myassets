@@ -1,2 +1,2 @@
-# IGNORE
-## Here I store all the previews of Webpages which is shown in the repository!
+# IGNORE🔗
+## Here I store all the previews of web pages that are shown in the repository!
