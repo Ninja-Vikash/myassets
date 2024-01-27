@@ -1,2 +1,2 @@
-# IGNORE🔗
-## Here I store all the previews of web pages that are shown in the repository!
+# myassets🔗
+## This repo holds all my assets of all other repositories. As Preview and png files.
